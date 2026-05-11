@@ -45,7 +45,7 @@ def addStudent():
     }
 
     students.append(data)
-    print("Student added.")
+    print("Student added sucessfully.")
 
 
 def displayStudents():
